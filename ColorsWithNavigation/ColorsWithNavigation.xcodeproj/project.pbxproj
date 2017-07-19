@@ -524,6 +524,7 @@
 				0202BFAE1F1F13EA0089FE01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0202BFAF1F1F13EA0089FE01 /* Build configuration list for PBXNativeTarget "ColorsWithNavigationTests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +533,7 @@
 				0202BFB11F1F13EA0089FE01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0202BFB21F1F13EA0089FE01 /* Build configuration list for PBXNativeTarget "ColorsWithNavigationUITests" */ = {
 			isa = XCConfigurationList;
@@ -540,6 +542,7 @@
 				0202BFB41F1F13EA0089FE01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
